@@ -51,8 +51,8 @@ buttons = [
         InlineKeyboardButton(text="❄ sᴛᴀᴛs ❄", callback_data="stats_callback"),
     ],
     [
-        InlineKeyboardButton(text="❄ sᴜᴘᴘᴏʀᴛ ❄", url=f"t.m/BeAkatsuki"),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
+         
+       InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
 
