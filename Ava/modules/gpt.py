@@ -25,13 +25,13 @@ def ensure_english(text):
         print(f"Error detecting or translating text: {e}")
     return text
 
-@app.on_message(filters.command(["va"], prefixes=["a", "A"]))
+@app.on_message(filters.command(["io"], prefixes=["r", "R"]))
 async def chat_arvis(app, message):
     try:
         await app.send_chat_action(message.chat.id, ChatAction.TYPING)
         name = message.from_user.first_name
         if len(message.command) < 2:
-            await message.reply_text(f"Hello {name}, I am Ava. How can I help you today?")
+            await message.reply_text(f"Hello {name}, I am Rio 💓. How can I help you today?")
         else:
             query = message.text.split(' ', 1)[1]
             MODEL = "gpt-3.5-turbo"
