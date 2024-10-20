@@ -36,7 +36,7 @@ from Ava.modules.language import gs
 
 
 PM_START_TEX = """
-ʜᴇʟʟᴏ `{}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ ʙʀᴏ . . . 
+ʜᴇʟʟᴏ `{}`, ʟᴇᴀғ sᴇᴄᴜʀɪᴛʏ• 💗 ɪs sᴛᴀʀᴛɪɴɢ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ ʙʀᴏ . . . 
 """
 
 START_IMG = "https://telegra.ph/file/551c987ff6964e408defb.jpg"
