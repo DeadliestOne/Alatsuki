@@ -44,14 +44,14 @@ HELP_IMG = "https://telegra.ph/file/e8170cda7390946b750f7.jpg"
 
 buttons = [
     [
-        InlineKeyboardButton(text="❣ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ❣︎", url=f"t.me/{BOT_USERNAME}?startgroup=new"),
+        InlineKeyboardButton(text="❣ ᴋɪᴅɴᴀᴘ ᴍᴇ ʙᴀʙʏ ❣︎", url=f"t.me/{BOT_USERNAME}?startgroup=new"),
     ],
     [
         InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
-        InlineKeyboardButton(text="🥀 sᴛᴀᴛs 🥀", callback_data="stats_callback"),
+        InlineKeyboardButton(text="❄ sᴛᴀᴛs ❄", callback_data="stats_callback"),
     ],
     [
-        InlineKeyboardButton(text="❄ ᴀʙᴏᴜᴛ ❄", callback_data="Jarvis_"),
+        InlineKeyboardButton(text="❄ sᴜᴘᴘᴏʀᴛ ❄", url=f"t.m/BeAkatsuki"),
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
