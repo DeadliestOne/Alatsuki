@@ -39,8 +39,8 @@ PM_START_TEX = """
 ʜᴇʟʟᴏ `{}`, ʟᴇᴀғ sᴇᴄᴜʀɪᴛʏ• 💗 ɪs sᴛᴀʀᴛɪɴɢ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ ʙʀᴏ . . . 
 """
 
-START_IMG = "https://telegra.ph/file/551c987ff6964e408defb.jpg"
-HELP_IMG = "https://telegra.ph/file/e8170cda7390946b750f7.jpg"
+START_IMG = "https://envs.sh/pjx.png"
+HELP_IMG = "https://envs.sh/pjx.png"
 
 buttons = [
     [
