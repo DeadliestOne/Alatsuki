@@ -129,11 +129,6 @@ from Ava.modules.sql import SESSION
 telegraph = Telegraph()
 telegraph.create_account(short_name="Ava")
 
-from tg import Defaults
-
-defaults = Defaults(run_async=True)
-
-
 updater = tg.Updater(
     token=TOKEN,
     base_url=BOT_API_URL,
